@@ -6,6 +6,9 @@
 - I'm also learning how to play the violin in my spare time 🎻
 
 ### Languages and tools:
+<!--
+Icons extracted from :https://github.com/devicons/devicon
+-->
 <img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="JS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="react" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
